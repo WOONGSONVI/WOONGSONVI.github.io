@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "About"
-categories: [MISC]
 tag: [Blog]
 permalink: /about
 use_math: true
