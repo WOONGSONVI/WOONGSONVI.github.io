@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "About"
+title: "About"
 categories: [MISC]
 tag: [Blog]
 permalink: /about

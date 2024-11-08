@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://woongsonvi.github.io/misc/MISC2/
   - title: "Category"
     url: /categories/
   - title: "Search"
@@ -10,8 +10,6 @@ main:
 docs:
   - title: "INDEX"
     children:
-      - title: "About"
-        url: https://woongsonvi.github.io/about/
       - title: "Category"
         url: /categories/
       - title: "Tag"
