@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
   - title: "Category"
     url: /categories/
   - title: "Search"
@@ -8,6 +10,8 @@ main:
 docs:
   - title: "INDEX"
     children:
+      - title: "About"
+        url: https://woongsonvi.github.io/about/
       - title: "Category"
         url: /categories/
       - title: "Tag"
