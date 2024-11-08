@@ -2,7 +2,7 @@
 layout: single
 title: "About"
 tag: [Blog]
-permalink: /about
+permalink: /about/
 use_math: true
 author_profile: false
 typora-root-url: ../
