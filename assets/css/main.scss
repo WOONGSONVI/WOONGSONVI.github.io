@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+table {
+    display: table; /* 기본 table 속성을 유지합니다 */
+    margin-left: auto;
+    margin-right: auto;
+  }
